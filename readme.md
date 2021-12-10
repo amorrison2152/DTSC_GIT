@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 for i in 'hello':
 	print ('hello')
 	
@@ -6,3 +7,12 @@ for i in 'hello':
 	
 	Testing for update to GitHub
 	
+=======
+# Read me
+
+Hello
+
+Testing to update new branch - this stuff is hard!
+
+Testing to merge to main
+
